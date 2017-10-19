@@ -1,5 +1,6 @@
 # Influenster_haircare
 I conducted two-level web scraping to obtain top shampoo, conditioner and hair oil products from Influenster.com. Based on over 77,000 reviews and 162 products, I made a comparison word cloud to check what are key words for differnt product category. Additionally, I created a search engine using TF-IDF and cosine similarity to check the resemblance between a user's query and product name. There are some interesting insights found in this dataset:
+
 (1) Most of the products belong to household brands.
 
 (2) There are more active Influenster users from California, Florida, Texas and New York.
